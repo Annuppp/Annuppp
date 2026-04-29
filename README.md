@@ -2,10 +2,8 @@
 
 ### 🚀 Full-Stack Developer (Backend-Focused)
 
-I’m a BCA student focused on building **scalable and efficient backend systems** using Node.js, Express, and MongoDB.  
-I enjoy designing REST APIs, handling authentication systems, and working with databases to build real-world applications.
-
-I also work with frontend technologies when needed to support full-stack development.
+I’m a BCA student focused on building **clean and scalable backend systems** using Node.js, Express, and MongoDB.  
+I enjoy designing REST APIs, working with authentication systems, and understanding how real-world applications are structured.
 
 ---
 
@@ -15,7 +13,15 @@ Node.js • Express.js • MongoDB • JavaScript • React • MySQL
 ---
 
 ### 📌 What I do
-- REST API Development
-- JWT Authentication & Authorization
-- CRUD Applications
-- MERN Stack Projects
+- Build REST APIs
+- Implement JWT authentication & authorization
+- Develop CRUD-based backend systems
+- Work on MERN stack projects
+- Structure backend architecture for real-world apps
+
+---
+
+### 🎯 Current Focus
+- Strengthening backend system design
+- Building authentication-heavy APIs
+- Creating internship-ready projects
